@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "Spring-Client"
+  annotations:
+    backstage.io/techdocs-ref: api
+  links:
+    - url: https://start.spring.io/
+      title: Generator
+      icon: dashboard
+spec:
+  type: service
+  owner: user:narendran
+  lifecycle: experimental
