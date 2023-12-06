@@ -15,5 +15,6 @@ metadata:
 spec:
   type: service
   owner: user:narendran
+  system: Connected-Cars-Services
   lifecycle: production
   subcomponentOf: angular
