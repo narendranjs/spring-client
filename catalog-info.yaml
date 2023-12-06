@@ -16,3 +16,4 @@ spec:
   type: service
   owner: narendran
   lifecycle: production
+  subcomponentOf: angular
