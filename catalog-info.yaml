@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "Spring-Client"
+  system: IB4 - Connected Cars Platform
   annotations:
     backstage.io/techdocs-ref: api
   links:
