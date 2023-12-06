@@ -8,7 +8,10 @@ metadata:
     - url: https://start.spring.io/
       title: Generator
       icon: dashboard
+  tags:
+    - java
+    - springboot
 spec:
   type: service
-  owner: user:narendran
-  lifecycle: experimental
+  owner: narendran
+  lifecycle: production
