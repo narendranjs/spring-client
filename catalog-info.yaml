@@ -14,6 +14,6 @@ metadata:
     - springboot
 spec:
   type: service
-  owner: narendran
+  owner: user:narendran
   lifecycle: production
   subcomponentOf: angular
