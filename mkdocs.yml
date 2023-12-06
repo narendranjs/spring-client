@@ -1,0 +1,8 @@
+site_name: "Spring Client POC"
+site_description: "Spring Client External implemention to Backstage"
+ 
+nav:
+  - Introduction: index.md
+ 
+plugins:
+  - techdocs-core
