@@ -4,7 +4,7 @@ metadata:
   name: "Spring-Client"
   system: IB4 - Connected Cars Platform
   annotations:
-    backstage.io/techdocs-ref: api
+    backstage.io/techdocs-ref: dir:.
   links:
     - url: https://start.spring.io/
       title: Generator
